@@ -4,4 +4,6 @@
 
 **Controls**
 
+Used c++ and glut
+
 ![controls](control.png)
