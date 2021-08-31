@@ -4,4 +4,4 @@
 
 **Controls**
 
-![controls](controls.png)
+![controls](control.png)
